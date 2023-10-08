@@ -1,0 +1,78 @@
+school_id,school_name,student_id,student_name,telugu,hindi,english,maths,physics,total_marks
+1,Narayana High School,1,Ramesh,70,89,66,37,88,350
+1,Narayana High School,2,Kajal,65,33,65,87,98,348
+1,Narayana High School,3,Mahesh,88,76,87,86,56,393
+1,Narayana High School,4,Karesh,98,97,90,87,88,460
+1,Narayana High School,5,Jeeresh,77,90,88,98,90,443
+1,Narayana High School,6,Rambo Ramban,88,67,88,98,66,407
+1,Narayana High School,7,MK V SS Sathish,90,98,98,98,98,482
+1,Narayana High School,8,SS Kaei,100,96,88,95,92,471
+1,Narayana High School,9,M Goel,70,89,66,37,88,350
+1,Narayana High School,10,S krish kumar,65,33,65,87,98,348
+1,Narayana High School,11,M.Harish,88,76,87,86,56,393
+1,Narayana High School,12, Gresh Verma,98,97,90,87,88,460
+1,Narayana High School,13,Talent Hero,77,90,88,98,90,443
+1,Narayana High School,14,Magesh Kalyan,100,96,88,95,92,471
+1,Narayana High School,15,Power Star,88,67,88,98,66,407
+2,Sri Chaitanya Highs School,16,S krish kumar,90,98,98,98,98,482
+2,Sri Chaitanya Highs School,17,M.Harish,100,96,88,95,92,471
+2,Sri Chaitanya Highs School,18, Gresh Verma,88,76,87,86,56,393
+2,Sri Chaitanya Highs School,19,Talent Hero,98,97,90,87,88,460
+2,Sri Chaitanya Highs School,20,Magesh Kalyan,77,90,88,98,90,443
+2,Sri Chaitanya Highs School,21,Power Star,88,67,88,98,66,407
+2,Sri Chaitanya Highs School,22,Mahesh,90,98,98,98,98,482
+2,Sri Chaitanya Highs School,23,Karesh,100,96,88,95,92,471
+2,Sri Chaitanya Highs School,24,Jeeresh,77,90,88,98,90,443
+2,Sri Chaitanya Highs School,25,Rambo Ramban,70,89,66,37,88,350
+2,Sri Chaitanya Highs School,26,MK V SS Sathish,65,33,65,87,98,348
+2,Sri Chaitanya Highs School,27,SS Kaei,88,67,88,98,66,407
+2,Sri Chaitanya Highs School,28,Magesh Kalyan,90,98,98,98,98,482
+2,Sri Chaitanya Highs School,29,Power Star,100,96,88,95,92,471
+2,Sri Chaitanya Highs School,30,S krish kumar,90,98,98,98,98,482
+3,"Gomathy International High School, Kphb, Hyderabad",31,M.Harish,100,96,88,95,92,471
+3,"Gomathy International High School, Kphb, Hyderabad",32, Gresh Verma,70,89,66,37,88,350
+3,"Gomathy International High School, Kphb, Hyderabad",33,Talent Hero,65,33,65,87,98,348
+3,"Gomathy International High School, Kphb, Hyderabad",34,Magesh Kalyan,88,76,87,86,56,393
+3,"Gomathy International High School, Kphb, Hyderabad",35,Power Star,100,96,88,95,92,471
+3,"Gomathy International High School, Kphb, Hyderabad",36,Mahesh,70,89,66,37,88,350
+3,"Gomathy International High School, Kphb, Hyderabad",37,Karesh,65,33,65,87,98,348
+3,"Gomathy International High School, Kphb, Hyderabad",38,Jeeresh,88,76,87,86,56,393
+3,"Gomathy International High School, Kphb, Hyderabad",39,Rambo Ramban,98,97,90,87,88,460
+3,"Gomathy International High School, Kphb, Hyderabad",40,MK V SS Sathish,77,90,88,98,90,443
+3,"Gomathy International High School, Kphb, Hyderabad",41,Jeeresh,77,90,88,98,90,443
+3,"Gomathy International High School, Kphb, Hyderabad",42,S krish kumar,70,89,66,37,88,350
+3,"Gomathy International High School, Kphb, Hyderabad",43,M.Harish,65,33,65,87,98,348
+3,"Gomathy International High School, Kphb, Hyderabad",44, Gresh Verma,65,33,65,87,98,348
+3,"Gomathy International High School, Kphb, Hyderabad",45,Talent Hero,77,90,88,98,90,443
+4,"Govt Boys High School, Sangareddy",46,Magesh Kalyan,88,67,88,98,66,407
+4,"Govt Boys High School, Sangareddy",47,Talent Hero,90,98,98,98,98,482
+4,"Govt Boys High School, Sangareddy",48,Magesh Kalyan,100,96,88,95,92,471
+4,"Govt Boys High School, Sangareddy",49,Power Star,65,33,65,87,98,348
+4,"Govt Boys High School, Sangareddy",50,Mahesh,88,67,88,98,66,407
+4,"Govt Boys High School, Sangareddy",51,Karesh,88,76,87,86,56,393
+4,"Govt Boys High School, Sangareddy",52,Jeeresh,98,97,90,87,88,460
+4,"Govt Boys High School, Sangareddy",53,Rambo Ramban,77,90,88,98,90,443
+4,"Govt Boys High School, Sangareddy",54,MK V SS Sathish,88,67,88,98,66,407
+4,"Govt Boys High School, Sangareddy",55,Jeeresh,90,98,98,98,98,482
+4,"Govt Boys High School, Sangareddy",56,S krish kumar,100,96,88,95,92,471
+4,"Govt Boys High School, Sangareddy",57,M.Harish,100,96,88,95,92,471
+4,"Govt Boys High School, Sangareddy",58,Talent Hero,88,76,87,86,56,393
+4,"Govt Boys High School, Sangareddy",59,Magesh Kalyan,98,97,90,87,88,460
+4,"Govt Boys High School, Sangareddy",60,Power Star,77,90,88,98,90,443
+5,PERL International High School,61,Mahesh,65,33,65,87,98,348
+5,PERL International High School,62,Karesh,88,67,88,98,66,407
+5,PERL International High School,63,Jeeresh,70,89,66,37,88,350
+5,PERL International High School,64,Rambo Ramban,70,89,66,37,88,350
+5,PERL International High School,65,Power Star,65,33,65,87,98,348
+5,PERL International High School,66,MK V SS Sathish,88,67,88,98,66,407
+5,PERL International High School,67,Jeeresh,90,98,98,98,98,482
+5,PERL International High School,68,S krish kumar,100,96,88,95,92,471
+5,PERL International High School,69,M.Harish,88,76,87,86,56,393
+5,PERL International High School,70,Talent Hero,98,97,90,87,88,460
+5,PERL International High School,71,Magesh Kalyan,77,90,88,98,90,443
+5,PERL International High School,72,Power Star,65,33,65,87,98,348
+5,PERL International High School,73,Power Star,88,67,88,98,66,407
+5,PERL International High School,74,Mahesh,70,89,66,37,88,350
+5,PERL International High School,75,Karesh,65,33,65,87,98,348
+,,, ,,,,,,
+,,, ,,,,,,
